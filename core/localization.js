@@ -81,6 +81,7 @@ function localization() {
   };
 
   translate.lang = () => state.lng;
+
   translate.list = () => state.reg;
 
   return translate;
