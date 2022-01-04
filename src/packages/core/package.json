@@ -1,0 +1,16 @@
+{
+  "name": "@localization/core",
+  "version": "1.0.0",
+  "description": "Core package for localization.",
+  "repository": {
+    "type": "git",
+    "directory": "src/packages/core"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "Vitaliy Parkhomenko",
+  "contributors": [
+    "Vitaliy Parkhomenko <parkhomenko.wd@gmail.com>"
+  ]
+}
