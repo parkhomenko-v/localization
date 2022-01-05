@@ -1,0 +1,16 @@
+{
+  "name": "@localization/react",
+  "version": "1.0.0",
+  "description": "React package for localization.",
+  "repository": {
+    "type": "git",
+    "directory": "src/packages/react"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "Vitaliy Parkhomenko",
+  "contributors": [
+    "Vitaliy Parkhomenko <parkhomenko.wd@gmail.com>"
+  ]
+}
